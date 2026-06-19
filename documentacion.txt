@@ -1,0 +1,1 @@
+Este proyecto hace que el usuario busque su ciudad, el programa le da su temperatura en celsius, e informacion importante de su ciudad
